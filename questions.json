@@ -4,5 +4,17 @@
   "ايه هو ال firewall؟",
   "الفرق بين ال hashing وال encryption وال encoding؟",
   "الفرق بين ال stateless وال stateful firewall؟",
-  "ال DNS شغال TCP ولا UDP؟"
+  "ال DNS شغال TCP ولا UDP؟",
+  "اديني امثلة على ال DNS Records؟",
+  "ما هو DHCP؟ بيشتغل في أنهي Layer؟ وبأي Port؟",
+  "إيه الفرق بين DHCP و Static IP؟ ومين تفضل تستخدمه في أي سيناريو؟",
+  "إيه هو Lease Time؟ وليه مهم؟",
+  "لو DHCP Server مش في نفس الشبكة، إزاي الأجهزة تاخد IP منه؟",
+  "إيه اللي ممكن يحصل لو عندك أكتر من DHCP Server في نفس الشبكة؟",
+  "إيه هي المعلومات اللي ممكن DHCP Server يديها غير الـ IP Address؟",
+  "إيه APIPA؟ وليه بتشوف جهاز واخد IP في الرينج 169.254.x.x؟",
+  "إيه هو DHCP Reservation؟ وليه نستخدمه؟",
+  "ايه هو ال FTP؟",
+  "إيه أوامر FTP الأساسية؟",
+  ""
 ]
